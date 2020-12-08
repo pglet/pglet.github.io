@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{71:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing Pglet","permalink":"/blog/introducing-pglet"}]}')}}]);
