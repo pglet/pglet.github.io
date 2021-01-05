@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pglet - Web UI streaming service and toolkit Blog</title>
+        <link>https://pglet.io/blog</link>
+        <description>Pglet - Web UI streaming service and toolkit Blog</description>
+        <lastBuildDate>Mon, 05 Oct 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing Pglet]]></title>
+            <link>https://pglet.io/blog/introducing-pglet</link>
+            <guid>introducing-pglet</guid>
+            <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pglet (pronounced as "pagelet") empowers DevOps to easily add rich user interface into their internal apps and utilities without any knowledge of HTML, CSS and JavaScript.]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pglet.io/blog</id>
+    <title>Pglet - Web UI streaming service and toolkit Blog</title>
+    <updated>2020-10-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pglet.io/blog"/>
+    <subtitle>Pglet - Web UI streaming service and toolkit Blog</subtitle>
+    <icon>https://pglet.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Introducing Pglet]]></title>
+        <id>introducing-pglet</id>
+        <link href="https://pglet.io/blog/introducing-pglet"/>
+        <updated>2020-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pglet (pronounced as "pagelet") empowers DevOps to easily add rich user interface into their internal apps and utilities without any knowledge of HTML, CSS and JavaScript.]]></summary>
+    </entry>
+</feed>
