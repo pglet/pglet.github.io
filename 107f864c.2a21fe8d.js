@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{76:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Pglet 0.2.2","permalink":"/blog/pglet-0-2-2"},{"title":"Pglet 0.2.0","permalink":"/blog/pglet-0-2-0"},{"title":"Launching Pglet","permalink":"/blog/launching-pglet"},{"title":"Introducing Pglet","permalink":"/blog/introducing-pglet"}]}')}}]);

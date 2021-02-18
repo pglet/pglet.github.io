@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pglet.io/blog</id>
     <title>Pglet - Web UI framework for backend developers Blog</title>
-    <updated>2021-02-05T00:00:00.000Z</updated>
+    <updated>2021-02-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pglet.io/blog"/>
     <subtitle>Pglet - Web UI framework for backend developers Blog</subtitle>
     <icon>https://pglet.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pglet 0.2.2]]></title>
+        <id>pglet-0-2-2</id>
+        <link href="https://pglet.io/blog/pglet-0-2-2"/>
+        <updated>2021-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pglet 0.2.2 adds the first chart control - VerticalBarChart:]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pglet 0.2.0]]></title>
         <id>pglet-0-2-0</id>
