@@ -4,9 +4,16 @@
         <title>Pglet - Web UI framework for backend developers Blog</title>
         <link>https://pglet.io/blog</link>
         <description>Pglet - Web UI framework for backend developers Blog</description>
-        <lastBuildDate>Wed, 17 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pglet 0.2.3]]></title>
+            <link>https://pglet.io/blog/pglet-0-2-3</link>
+            <guid>pglet-0-2-3</guid>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pglet 0.2.3 adds more chart controls:]]></description>
+        </item>
         <item>
             <title><![CDATA[Pglet 0.2.2]]></title>
             <link>https://pglet.io/blog/pglet-0-2-2</link>
